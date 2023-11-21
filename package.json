@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "NodeJS express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tumanish/Server.git"
+  },
+  "keywords": [
+    "Node",
+    "express",
+    "easy"
+  ],
+  "author": "M15H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tumanish/Server/issues"
+  },
+  "homepage": "https://github.com/Tumanish/Server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
